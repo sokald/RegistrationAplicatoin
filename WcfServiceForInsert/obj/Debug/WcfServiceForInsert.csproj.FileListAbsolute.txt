@@ -1,0 +1,7 @@
+C:\Users\sokald\source\repos\WcfServiceForInsert\WcfServiceForInsert\obj\Debug\WcfServiceForInsert.csprojResolveAssemblyReference.cache
+C:\Users\sokald\source\repos\WcfServiceForInsert\WcfServiceForInsert\obj\Debug\WcfServiceForInsert.csproj.CoreCompileInputs.cache
+C:\Users\sokald\source\repos\WcfServiceForInsert\WcfServiceForInsert\bin\WcfServiceForInsert.dll.config
+C:\Users\sokald\source\repos\WcfServiceForInsert\WcfServiceForInsert\bin\WcfServiceForInsert.dll
+C:\Users\sokald\source\repos\WcfServiceForInsert\WcfServiceForInsert\bin\WcfServiceForInsert.pdb
+C:\Users\sokald\source\repos\WcfServiceForInsert\WcfServiceForInsert\obj\Debug\WcfServiceForInsert.dll
+C:\Users\sokald\source\repos\WcfServiceForInsert\WcfServiceForInsert\obj\Debug\WcfServiceForInsert.pdb
